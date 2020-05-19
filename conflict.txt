@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 today learned abt git and maven
 =======
 raising merge conflict
 >>>>>>> 3fcc73c428e36e4ec5ea628060b3ac4b2ec04c92
+=======
+this is some content to mess with
+content to append
+totally different content to merge later
+>>>>>>> 262212bba83fd1bb075008b030de0ac4e574ab5b
