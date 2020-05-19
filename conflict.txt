@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 today learned abt git and maven
+=======
+raising merge conflict
+>>>>>>> 3fcc73c428e36e4ec5ea628060b3ac4b2ec04c92
